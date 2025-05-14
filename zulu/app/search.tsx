@@ -1,11 +1,13 @@
+import Header from '@/components/Header';
 import React from 'react';
-import { View, Text } from 'react-native';
+import {  Text, SafeAreaView } from 'react-native';
 
 const Search = () => {
   return (
-    <View>
-      <Text>Hello, World!</Text>
-    </View>
+    <SafeAreaView>
+        <Header back/>
+      <Text>Search</Text>
+    </SafeAreaView>
   );
 };
 

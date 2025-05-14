@@ -1,22 +1,8 @@
 // Videos Data
 
 export const videoData = [
-    {
-      video: require('./../../assets/storage/video/vid9.mp4'),
-      postProfile: require('./../../assets/storage/image/img9.jpg'),
-      title: 'Noah_Adventure',
-      description: 'Skydiving over Dubai 🪂🏙️',
-      likes: '260k',
-      isLike: false,
-  },
-      {
-        video: require('./../../assets/storage/video/vid1.mp4'),
-        postProfile: require('./../../assets/storage/image/img1.jpg'),
-        title: 'Ram_Charan',
-        description: 'Feel the beauty of nature 🌿✨',
-        likes: '245k',
-        isLike: false,
-    },
+    
+    
     {
         video: require('./../../assets/storage/video/vid2.mp4'),
         postProfile: require('./../../assets/storage/image/img2.jpg'),
@@ -24,14 +10,6 @@ export const videoData = [
         description: 'Lost in the streets of Paris 🇫🇷❤️',
         likes: '132k',
         isLike: true,
-    },
-    {
-        video: require('./../../assets/storage/video/vid3.mp4'),
-        postProfile: require('./../../assets/storage/image/img3.jpg'),
-        title: 'James_Explorer',
-        description: 'Riding through the Sahara 🏜️🐪',
-        likes: '98k',
-        isLike: false,
     },
     {
         video: require('./../../assets/storage/video/vid4.mp4'),
@@ -57,31 +35,7 @@ export const videoData = [
         likes: '87k',
         isLike: true,
     },
-    {
-        video: require('./../../assets/storage/video/vid7.mp4'),
-        postProfile: require('./../../assets/storage/image/img7.jpg'),
-        title: 'Ethan_Speedster',
-        description: 'Supercars and adrenaline rushes 🏎️💨',
-        likes: '315k',
-        isLike: false,
-    },
-    {
-        video: require('./../../assets/storage/video/vid8.mp4'),
-        postProfile: require('./../../assets/storage/image/img8.jpg'),
-        title: 'Charlotte_Traveler',
-        description: 'Chasing sunsets in Santorini 🌅🏝️',
-        likes: '140k',
-        isLike: true,
-    },
     
-    {
-        video: require('./../../assets/storage/video/vid10.mp4'),
-        postProfile: require('./../../assets/storage/image/img10.jpg'),
-        title: 'Mia_Dancer',
-        description: 'Expressing through movement 💃🎶',
-        likes: '175k',
-        isLike: true,
-    },
     {
         video: require('./../../assets/storage/video/vid11.mp4'),
         postProfile: require('./../../assets/storage/image/img11.jpg'),
@@ -98,30 +52,7 @@ export const videoData = [
         likes: '200k',
         isLike: true,
     },
-    {
-        video: require('./../../assets/storage/video/vid13.mp4'),
-        postProfile: require('./../../assets/storage/image/img13.jpg'),
-        title: 'Daniel_Music',
-        description: 'Jamming with legends 🎸🎤',
-        likes: '245k',
-        isLike: false,
-    },
-    {
-        video: require('./../../assets/storage/video/vid14.mp4'),
-        postProfile: require('./../../assets/storage/image/img14.jpg'),
-        title: 'Ava_Photographer',
-        description: 'Capturing untold stories 📸✨',
-        likes: '110k',
-        isLike: true,
-    },
-    {
-        video: require('./../../assets/storage/video/vid15.mp4'),
-        postProfile: require('./../../assets/storage/image/img15.jpg'),
-        title: 'Mason_Coder',
-        description: 'AI and the future of tech 🤖💻',
-        likes: '305k',
-        isLike: false,
-    },
+   
     {
         video: require('./../../assets/storage/video/vid16.mp4'),
         postProfile: require('./../../assets/storage/image/img16.jpg'),
@@ -130,55 +61,7 @@ export const videoData = [
         likes: '225k',
         isLike: true,
     },
-    {
-        video: require('./../../assets/storage/video/vid17.mp4'),
-        postProfile: require('./../../assets/storage/image/img17.jpg'),
-        title: 'Elijah_Surfer',
-        description: 'Riding the biggest waves 🌊🏄‍♂️',
-        likes: '280k',
-        isLike: false,
-    },
-    {
-        video: require('./../../assets/storage/video/vid18.mp4'),
-        postProfile: require('./../../assets/storage/image/img18.jpg'),
-        title: 'Scarlett_Model',
-        description: 'Runway moments in Milan 👠✨',
-        likes: '155k',
-        isLike: true,
-    },
-    {
-        video: require('./../../assets/storage/video/vid19.mp4'),
-        postProfile: require('./../../assets/storage/image/img19.jpg'),
-        title: 'Henry_Business',
-        description: 'Sharing insights on wealth & success 💼📈',
-        likes: '290k',
-        isLike: false,
-    },
-  
-      {
-        video: require('./../../assets/storage/videos/video2.mp4'),
-        postProfile: require('./../../assets/storage/images/post2.jpg'),
-        title: 'The_Groot',
-        description: "It's a tea time",
-        likes: '656k',
-        isLike: false,
-      },
-      {
-        video: require('./../../assets/storage/videos/video3.mp4'),
-        postProfile: require('./../../assets/storage/images/post3.jpg'),
-        title: 'loverland',
-        description: 'Feel the buity of nature',
-        likes: '243k',
-        isLike: false,
-      },
-      {
-        video: require('./../../assets/storage/videos/video4.mp4'),
-        postProfile: require('./../../assets/storage/images/post4.jpg'),
-        title: 'mr. bean',
-        description: 'How cute it is !!',
-        likes: '876k',
-        isLike: false,
-      },
+    
     ];
     
     // Friends Profile Data
